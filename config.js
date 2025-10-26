@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Yêu tớ nha",
-    introTitle: 'Chào người yêu của tôi',
+    titleWeb: "nguyn iu quynh nhat ><",
+    introTitle: 'chào zợ iu cụa nguyn',
     introDesc: `Trái đất vốn lạ thường
     Mà sao tớ cứ đi nhầm đường
     Lạc vào tim cậu lẻ loi
@@ -11,7 +11,7 @@ const CONFIG = {
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu tớ <3',
-    btnReply: 'Gửi cho tôi Luong',
+    btnReply: 'yeu yeu yeu',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
